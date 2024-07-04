@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth - Clone\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth - Clone\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "bluetooth.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	bluetooth.c
+diagnostics: 162	123	Compiled Successfully	bluetooth.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 2002 (99%)	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 2002 (99%)
+hint: 0	1144	Used ROM (bytes): 1384 (4%)  Free ROM (bytes): 31384 (96%)	Used ROM (bytes): 1384 (4%)  Free ROM (bytes): 31384 (96%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 78 ms	 
+diagnostics: 0	103	Finished successfully: 31 Mar 2024, 15:14:28	MyProject.mcppi

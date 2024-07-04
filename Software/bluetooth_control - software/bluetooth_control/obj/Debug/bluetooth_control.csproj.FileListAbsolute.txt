@@ -1,0 +1,30 @@
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\bin\Debug\bluetooth_control.exe.config
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\bin\Debug\bluetooth_control.exe
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\bin\Debug\bluetooth_control.pdb
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.csproj.AssemblyReference.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.Form1.resources
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.Properties.Resources.resources
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.csproj.GenerateResource.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.csproj.CoreCompileInputs.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.exe
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control\bluetooth_control\obj\Debug\bluetooth_control.pdb
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\bin\Debug\bluetooth_control.exe.config
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\bin\Debug\bluetooth_control.exe
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\bin\Debug\bluetooth_control.pdb
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.csproj.AssemblyReference.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.Form1.resources
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.Properties.Resources.resources
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.csproj.GenerateResource.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.csproj.CoreCompileInputs.cache
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.exe
+D:\hk2_nam3\GTTBNV\code\software\New\bluetooth_control - Clone\bluetooth_control\obj\Debug\bluetooth_control.pdb
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\bin\Debug\bluetooth_control.exe.config
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\bin\Debug\bluetooth_control.exe
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\bin\Debug\bluetooth_control.pdb
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.csproj.AssemblyReference.cache
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.Form1.resources
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.Properties.Resources.resources
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.csproj.GenerateResource.cache
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.csproj.CoreCompileInputs.cache
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.exe
+D:\IUH\Nam ba\HK2\Giao tiep thiet bi ngoai vi\Project\DK cua cuon\bluetooth_control - hoanchinh\bluetooth_control\obj\Debug\bluetooth_control.pdb
