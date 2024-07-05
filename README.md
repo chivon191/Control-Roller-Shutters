@@ -35,6 +35,7 @@ Control the motor operation via push buttons and software on a computer through 
 ![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/6.jpg)
 ![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/7.jpg)
 ### Demo app
+![Demo software](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/demo.jpg)
 ### Results
 - Connecting
 ![Connecting](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/connect.jpg)
