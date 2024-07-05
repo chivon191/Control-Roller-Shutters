@@ -12,10 +12,12 @@ Control the motor operation via push buttons and software on a computer through 
 - Button
 - Motor
 - Warning LED
-- `Limit Switch` for Open/Close Operation\
+- `Limit Switch` for Open/Close Operation
 ## IDE
 - MikroC for PIC
 - Visual Studio
 ## Block Diagram
-![Block Diagram](blockdiagram.jpg)
-
+![Block Diagram](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/blockdiagram.jpg)
+## Schematic
+![Schematic](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/schematic.jpg)
+## Firmware (PIC18F4550)
