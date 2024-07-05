@@ -21,3 +21,26 @@ Control the motor operation via push buttons and software on a computer through 
 ## Schematic
 ![Schematic](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/schematic.jpg)
 ## Firmware (PIC18F4550)
+### Flowchart
+![Main](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Firmware/firm1.jpg)
+![Flow1](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Firmware/firm2.jpg)
+![Flow1](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Firmware/firm3.jpg)
+## Software (WinFormApp)
+### Flowchart
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/1.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/2.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/3.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/4.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/5.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/6.jpg)
+![](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Software/7.jpg)
+### Demo app
+### Results
+- Connecting
+![Connecting](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/connect.jpg)
+- Opening
+![Opening](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/opening.jpg)
+- Closing
+![Closing](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/closing.jpg)
+- Closed
+![Closed](https://github.com/chivon191/Control-Roller-Shutters/blob/main/Image/Final/closed.jpg)
